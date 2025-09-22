@@ -1,0 +1,12 @@
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\bin\Debug\Mesajlasma_Uygulaması.exe.config
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\bin\Debug\Mesajlasma_Uygulaması.exe
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\bin\Debug\Mesajlasma_Uygulaması.pdb
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.Form1.resources
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.Form2.resources
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.Properties.Resources.resources
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.csproj.GenerateResource.cache
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.exe
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.pdb
+C:\Users\Nex\source\repos\Mesajlasma_Uygulaması\Mesajlasma_Uygulaması\obj\Debug\Mesajlasma_Uygulaması.exe.config

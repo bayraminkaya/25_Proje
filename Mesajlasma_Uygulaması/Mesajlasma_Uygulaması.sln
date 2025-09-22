@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mesajlasma_Uygulaması", "Mesajlasma_Uygulaması\Mesajlasma_Uygulaması.csproj", "{BFCDAC3B-77E4-4530-AD7A-ECEDDCD5124C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCDAC3B-77E4-4530-AD7A-ECEDDCD5124C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCDAC3B-77E4-4530-AD7A-ECEDDCD5124C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCDAC3B-77E4-4530-AD7A-ECEDDCD5124C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCDAC3B-77E4-4530-AD7A-ECEDDCD5124C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C17A89D-743C-4599-9EFD-0D56A55B585C}
+	EndGlobalSection
+EndGlobal
