@@ -1,0 +1,11 @@
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\bin\Debug\Doviz_Ofis.exe.config
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\bin\Debug\Doviz_Ofis.exe
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\bin\Debug\Doviz_Ofis.pdb
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.csproj.AssemblyReference.cache
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.Form1.resources
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.Properties.Resources.resources
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.csproj.GenerateResource.cache
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.csproj.CoreCompileInputs.cache
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.exe
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.pdb
+C:\Users\Nex\source\repos\Doviz_Ofis\Doviz_Ofis\obj\Debug\Doviz_Ofis.exe.config
