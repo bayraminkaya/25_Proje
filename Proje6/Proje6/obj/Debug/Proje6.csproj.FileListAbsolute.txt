@@ -1,0 +1,10 @@
+C:\Users\Nex\source\repos\Proje6\Proje6\bin\Debug\Proje6.exe.config
+C:\Users\Nex\source\repos\Proje6\Proje6\bin\Debug\Proje6.exe
+C:\Users\Nex\source\repos\Proje6\Proje6\bin\Debug\Proje6.pdb
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.csproj.AssemblyReference.cache
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.Form1.resources
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.Properties.Resources.resources
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.csproj.GenerateResource.cache
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.csproj.CoreCompileInputs.cache
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.exe
+C:\Users\Nex\source\repos\Proje6\Proje6\obj\Debug\Proje6.pdb
