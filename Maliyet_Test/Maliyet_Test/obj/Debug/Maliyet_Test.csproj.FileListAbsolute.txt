@@ -1,0 +1,11 @@
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\bin\Debug\Maliyet_Test.exe.config
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\bin\Debug\Maliyet_Test.exe
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\bin\Debug\Maliyet_Test.pdb
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.csproj.AssemblyReference.cache
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.Form1.resources
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.Properties.Resources.resources
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.csproj.GenerateResource.cache
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.csproj.CoreCompileInputs.cache
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.exe
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.pdb
+C:\Users\Nex\source\repos\Maliyet_Test\Maliyet_Test\obj\Debug\Maliyet_Test.exe.config
