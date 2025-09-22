@@ -1,0 +1,11 @@
+C:\Users\Nex\source\repos\SorguTest\SorguTest\bin\Debug\SorguTest.exe.config
+C:\Users\Nex\source\repos\SorguTest\SorguTest\bin\Debug\SorguTest.exe
+C:\Users\Nex\source\repos\SorguTest\SorguTest\bin\Debug\SorguTest.pdb
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.csproj.AssemblyReference.cache
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.Form1.resources
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.Properties.Resources.resources
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.csproj.GenerateResource.cache
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.csproj.CoreCompileInputs.cache
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.exe
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.pdb
+C:\Users\Nex\source\repos\SorguTest\SorguTest\obj\Debug\SorguTest.exe.config
